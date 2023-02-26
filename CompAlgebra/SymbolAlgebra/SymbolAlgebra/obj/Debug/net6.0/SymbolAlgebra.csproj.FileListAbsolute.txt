@@ -1,0 +1,15 @@
+C:\Users\iTunkimi\Desktop\GitReps\CompAlgebra\SymbolAlgebra\SymbolAlgebra\obj\Debug\net6.0\SymbolAlgebra.csproj.AssemblyReference.cache
+C:\Users\iTunkimi\Desktop\GitReps\CompAlgebra\SymbolAlgebra\SymbolAlgebra\obj\Debug\net6.0\SymbolAlgebra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iTunkimi\Desktop\GitReps\CompAlgebra\SymbolAlgebra\SymbolAlgebra\obj\Debug\net6.0\SymbolAlgebra.AssemblyInfoInputs.cache
+C:\Users\iTunkimi\Desktop\GitReps\CompAlgebra\SymbolAlgebra\SymbolAlgebra\obj\Debug\net6.0\SymbolAlgebra.AssemblyInfo.cs
+C:\Users\iTunkimi\Desktop\GitReps\CompAlgebra\SymbolAlgebra\SymbolAlgebra\obj\Debug\net6.0\SymbolAlgebra.csproj.CoreCompileInputs.cache
+C:\Users\iTunkimi\Desktop\GitReps\CompAlgebra\SymbolAlgebra\SymbolAlgebra\bin\Debug\net6.0\SymbolAlgebra.exe
+C:\Users\iTunkimi\Desktop\GitReps\CompAlgebra\SymbolAlgebra\SymbolAlgebra\bin\Debug\net6.0\SymbolAlgebra.deps.json
+C:\Users\iTunkimi\Desktop\GitReps\CompAlgebra\SymbolAlgebra\SymbolAlgebra\bin\Debug\net6.0\SymbolAlgebra.runtimeconfig.json
+C:\Users\iTunkimi\Desktop\GitReps\CompAlgebra\SymbolAlgebra\SymbolAlgebra\bin\Debug\net6.0\SymbolAlgebra.dll
+C:\Users\iTunkimi\Desktop\GitReps\CompAlgebra\SymbolAlgebra\SymbolAlgebra\bin\Debug\net6.0\SymbolAlgebra.pdb
+C:\Users\iTunkimi\Desktop\GitReps\CompAlgebra\SymbolAlgebra\SymbolAlgebra\obj\Debug\net6.0\SymbolAlgebra.dll
+C:\Users\iTunkimi\Desktop\GitReps\CompAlgebra\SymbolAlgebra\SymbolAlgebra\obj\Debug\net6.0\refint\SymbolAlgebra.dll
+C:\Users\iTunkimi\Desktop\GitReps\CompAlgebra\SymbolAlgebra\SymbolAlgebra\obj\Debug\net6.0\SymbolAlgebra.pdb
+C:\Users\iTunkimi\Desktop\GitReps\CompAlgebra\SymbolAlgebra\SymbolAlgebra\obj\Debug\net6.0\SymbolAlgebra.genruntimeconfig.cache
+C:\Users\iTunkimi\Desktop\GitReps\CompAlgebra\SymbolAlgebra\SymbolAlgebra\obj\Debug\net6.0\ref\SymbolAlgebra.dll
